@@ -78,7 +78,7 @@ UpiIndia _upiIndia = UpiIndia();
 Get list of all apps in the device which can handle UPI Intent, as shown.
 
 ```dart
-List<UpiIndiaApp> apps;
+List<UpiApp> apps;
 
 @override
 void initState() {
